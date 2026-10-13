@@ -151,6 +151,7 @@ python -m unittest -v
 ├── test_ollama_tool_agent.py   # 模拟工具的离线单元测试
 ├── requirements.txt            # Python 依赖
 ├── 项目说明.md                  # 简要项目说明
+├── .gitignore                  # Python 缓存与虚拟环境忽略规则
 ├── LICENSE                     # MIT 许可证
 └── README.md
 ```
